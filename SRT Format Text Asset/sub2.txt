@@ -1,0 +1,311 @@
+1
+00:00:00,000 --> 00:00:04,700
+Videos with subtitles get much more engagement than videos without
+
+2
+00:00:04,700 --> 00:00:10,100
+subtitles. In a recent study, 92% of videos viewed on mobile were viewed
+
+3
+00:00:10,100 --> 00:00:11,400
+without sound.
+
+4
+00:00:11,400 --> 00:00:15,500
+So whether you love them or hate them, there's no denying subtitles
+
+5
+00:00:15,500 --> 00:00:19,700
+and captioned text will help your videos perform better. In this video,
+
+6
+00:00:19,700 --> 00:00:24,200
+you'll learn how to easily add subtitles to any video and we'll do that
+
+7
+00:00:24,200 --> 00:00:25,200
+right now.
+
+8
+00:00:30,600 --> 00:00:31,600
+Hey, what's up y'all?
+
+9
+00:00:31,600 --> 00:00:35,400
+This is Brian White and welcome back to VideoZeus. On this channel
+
+10
+00:00:35,400 --> 00:00:39,800
+we produce weekly content for creators, educators and marketers, all in
+
+11
+00:00:39,800 --> 00:00:42,700
+an effort to help you spend less time making more videos.
+
+12
+00:00:42,700 --> 00:00:44,400
+So if that sounds like the kind of stuff
+
+13
+00:00:44,400 --> 00:00:47,200
+you're into, consider clicking the subscribe button now.
+
+14
+00:00:47,200 --> 00:00:52,400
+So today I'm going to show you a quick, easy and free way to add
+
+15
+00:00:52,400 --> 00:00:56,500
+subtitles to any video. We'll be using an online video editing
+
+16
+00:00:56,500 --> 00:01:00,500
+application called Kapwing. Now aside from being a great video
+
+17
+00:01:00,500 --> 00:01:05,600
+creation platform, Kapwing also has a lot of really useful tools with
+
+18
+00:01:05,600 --> 00:01:10,000
+one of them being the auto subtitle tool. This works for any video.
+
+19
+00:01:10,000 --> 00:01:13,800
+You can sign up for a free Kapwing account by following the link in the
+
+20
+00:01:13,800 --> 00:01:14,400
+description below.
+
+21
+00:01:15,099 --> 00:01:18,700
+Now, once inside your Kapwing workspace, we can access the subtitler
+
+22
+00:01:18,700 --> 00:01:23,100
+by clicking this button in this menu on the left. Alright next, on this
+
+23
+00:01:23,100 --> 00:01:28,000
+page we'll upload our video file by clicking in here or we can simply
+
+24
+00:01:28,000 --> 00:01:30,500
+paste a link from an existing online video.
+
+25
+00:01:30,600 --> 00:01:33,100
+Like a YouTube link. Now
+
+26
+00:01:33,100 --> 00:01:35,400
+we're inside the subtitler tool.
+
+27
+00:01:35,400 --> 00:01:38,500
+You'll see your video preview, some text options,
+
+28
+00:01:38,500 --> 00:01:42,700
+but first, let's focus our attention into the add subtitles area over
+
+29
+00:01:42,700 --> 00:01:45,900
+here. Next simply click on the auto generate button.
+
+30
+00:01:45,900 --> 00:01:50,400
+And then on this screen select the native language featured in your
+
+31
+00:01:50,400 --> 00:01:54,800
+video and if needed you can select to transcribe the video into
+
+32
+00:01:54,800 --> 00:01:56,800
+subtitles for another language.
+
+33
+00:01:56,800 --> 00:02:01,300
+We'll just keep it on English for now and click on auto generate. Kapwing
+
+34
+00:02:01,300 --> 00:02:06,000
+will process your video, extract the audio and transcribe it. Once that
+
+35
+00:02:06,000 --> 00:02:06,700
+process is finished.
+
+36
+00:02:06,700 --> 00:02:09,900
+You'll now see the subtitles displayed on screen.
+
+37
+00:02:09,900 --> 00:02:13,700
+Let's go ahead and click on his play button to play back this short
+
+38
+00:02:13,700 --> 00:02:19,400
+video to see how well the AI did at transcribing the audio and if any
+
+39
+00:02:19,400 --> 00:02:20,500
+edits need to be made.
+
+40
+00:02:21,399 --> 00:02:22,900
+Shhhh...
+
+41
+00:02:22,900 --> 00:02:27,100
+I'll let you in on a little secret. Subtitled videos perform way better
+
+42
+00:02:27,100 --> 00:02:28,900
+than videos without subtitles.
+
+43
+00:02:28,900 --> 00:02:33,700
+In fact, Facebook shows that 85% of the videos viewed on the platform
+
+44
+00:02:33,700 --> 00:02:38,700
+are viewed without sound. So subtitles make your content easily consumable
+
+45
+00:02:38,700 --> 00:02:42,100
+by audiences because they longer have to click inside the video to
+
+46
+00:02:42,100 --> 00:02:42,500
+hear it.
+
+47
+00:02:42,500 --> 00:02:46,200
+They can actually see it taking place on the screen through the subtitled text.
+
+48
+00:02:46,200 --> 00:02:51,000
+Okay, actually not too bad. If I have spoken a little more clearly the
+
+49
+00:02:51,000 --> 00:02:52,300
+results would have been better.
+
+50
+00:02:52,300 --> 00:02:57,100
+So remember that for when you try it. But not to worry, we can easily
+
+51
+00:02:57,100 --> 00:03:01,300
+edit the text and the timing of these subtitles. You'll simply listen,
+
+52
+00:03:01,300 --> 00:03:05,600
+review and edit your subtitles... exactly like you'd edit a Word document.
+
+53
+00:03:05,600 --> 00:03:10,000
+If you need to add a subtitle, you can click down here on add
+
+54
+00:03:10,000 --> 00:03:14,700
+subtitle, add your new text and use these time stamps to properly time
+
+55
+00:03:14,700 --> 00:03:19,400
+out when your new subtitle begins and ends. Certainly to remove or
+
+56
+00:03:19,400 --> 00:03:22,400
+duplicate a subtitle, simply click on one of these buttons.
+
+57
+00:03:22,800 --> 00:03:26,500
+So now that we have these subtitles customized to our liking we can
+
+58
+00:03:26,500 --> 00:03:27,600
+play it back to review.
+
+59
+00:03:27,600 --> 00:03:29,200
+Shhhh...
+
+60
+00:03:29,200 --> 00:03:33,500
+"I'll let you in on a little secret. Subtitled videos perform way better
+
+61
+00:03:33,500 --> 00:03:38,400
+than videos without subtitles. In fact, Facebook shows that 85% of the
+
+62
+00:03:38,400 --> 00:03:42,600
+videos viewed on the platform are viewed without sound" Now that we
+
+63
+00:03:42,600 --> 00:03:46,600
+have our subtitles properly edited and timed out, we can focus our
+
+64
+00:03:46,600 --> 00:03:50,700
+attention to the text options panel to stylize our new subtitles.
+
+65
+00:03:50,700 --> 00:03:54,900
+There are plenty of options to choose from to customize your subtitles.
+
+66
+00:03:54,900 --> 00:03:59,400
+But at the end of the day just make sure it's readable. Next will click
+
+67
+00:03:59,400 --> 00:04:03,700
+down here on the done button, which will take us into the Kapwing studio where
+
+68
+00:04:03,700 --> 00:04:07,900
+we can perform further editing tasks such as trimming the clip and
+
+69
+00:04:07,900 --> 00:04:11,500
+adding graphics to name a few, but for now, we're just going to click
+
+70
+00:04:11,500 --> 00:04:16,200
+up here on export video. Kapwing will process your editing request and
+
+71
+00:04:16,200 --> 00:04:20,100
+take you to this page where you can download your video file, copy a
+
+72
+00:04:20,100 --> 00:04:22,700
+link to share it or jump back into edit it.
+
+73
+00:04:22,700 --> 00:04:26,200
+Definitely check out Kapwing with the link in the description below.
+
+74
+00:04:26,200 --> 00:04:30,700
+So you can also add subtitles to any video in just minutes.
+
+75
+00:04:30,700 --> 00:04:33,200
+ Consider watching this video next to learn how to
+
+76
+00:04:33,200 --> 00:04:38,200
+use the Kapwing to remove the background of any video without a green screen.
+
+77
+00:04:38,200 --> 00:04:40,799
+Once again, thanks for watching VideoZeus.
+
+78
+00:04:40,800 --> 00:04:44,000
+Helping you spend less time making more videos.
